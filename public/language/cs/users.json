@@ -1,0 +1,9 @@
+{
+    "latest_users": "Nejnovější uživatelé",
+    "top_posters": "Nejaktivnější",
+    "most_reputation": "Nejváženější",
+    "search": "Vyhledávat",
+    "enter_username": "Zadej uživatelské jméno k hledání",
+    "load_more": "Načíst další",
+    "users-found-search-took": "Nazelezeno: %1 uživetel(ů)! Vyhledání trvalo %2 ms."
+}

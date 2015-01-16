@@ -1,0 +1,8 @@
+{
+    "groups": "Csoportok",
+    "view_group": "Csoport megtekintés",
+    "details.title": "Csoport részletek",
+    "details.members": "Felhasználók",
+    "details.has_no_posts": "A csoport felhasználói nem tettek még közzé bejegyzést.",
+    "details.latest_posts": "Legújabb bejegyzések"
+}
